@@ -1,3 +1,7 @@
+![Version](https://img.shields.io/badge/version-1.0-blue)
+![Zabbix](https://img.shields.io/badge/Zabbix-6%20%7C%207-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-yellow)
+![Status](https://img.shields.io/badge/status-stable-success)
 # 🖨️ Template Zabbix – HP Laser MFP 432
 
 Template desenvolvido para o **Zabbix 6.0+ e Zabbix 7.0**, com foco no monitoramento de impressoras **HP Laser MFP 432** via **SNMP v1/v2c**.  
@@ -90,3 +94,4 @@ Desenvolvido por **João Moraes**
 
 Este projeto é aberto e gratuito, feito para ajudar técnicos, administradores e entusiastas do Zabbix que precisam de uma forma prática de monitorar impressoras HP.  
 Contribuições são bem-vindas! Sinta-se à vontade para abrir **issues** ou enviar **pull requests**.
+
