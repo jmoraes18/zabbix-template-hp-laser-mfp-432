@@ -85,7 +85,6 @@ Este projeto está licenciado sob a **MIT License** – você pode usar, modific
 ## 👨‍💻 Autor
 
 Desenvolvido por **João Moraes**  
-📍 Grupo Utam – Departamento de TI  
 💼 [GitHub: jmoraes18](https://github.com/jmoraes18)
 
 ---
@@ -94,4 +93,5 @@ Desenvolvido por **João Moraes**
 
 Este projeto é aberto e gratuito, feito para ajudar técnicos, administradores e entusiastas do Zabbix que precisam de uma forma prática de monitorar impressoras HP.  
 Contribuições são bem-vindas! Sinta-se à vontade para abrir **issues** ou enviar **pull requests**.
+
 
